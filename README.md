@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![MasterHead](https://github.com/user-attachments/assets/f7ebfe6c-47d8-44a4-a92e-2214fc7b3e01)](https://github.com/RodrigoLeee)
+
 <!--
 **RodrigoLeee/RodrigoLeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
